@@ -1,0 +1,42 @@
+IMPROVING RESTAURENT BUSSINESS
+=============
+
+# OVERVIEW
+ -->YELP ratings clearly have a profound effect on the success of businesses as “an extra half-star rating causes restaurants to sell out 19 percentage points more frequently” (increase from 30% to 49%). But how can a restaurant point out the demands of its customers from a large amount of reviews? We hope to identify what users care most about when writing their reviews, and ultimately determine what certain restaurants are doing right and wrong in order to receive these ratings.
+-->With a large amount of data, it becomes difficult to extract prominent or relevant features. By breaking the reviews down into latent subtopics using LDA, we are then able to predict a restaurant’s star rating per hidden topic. Ultimately these ratings per hidden topic allow us to pinpoint the reasons for a restaurant’s Yelp rating, other than food quality. Some latent subtopics that were extracted from Yelp reviews include service, value and family. Additionally, other topics such as meat, veggies and dinner also came up in our findings and proved useful.
+--> Here we use LATENT DIRICHLET ALLOCATION factor to review the restaurent data.
+--> Earlier works in this area have predicted start ratings of reviews using sentiment analysis and predicted business categories using K-mean clustering and rating businesses based on hidden topics.
+The Yelp dataset that we work on has information on reviews, users, businesses, and business check-ins. We specifically focus on restaurant data with regards to each type of information
+
+# DATA
+ DATA SET-->https://www.yelp.com/dataset_challenge/dataset
+
+
+
+
+# MODELS AND ANALYSIS
+
+Here we will use LATENT DIRICHLET ALLOCATION to process our data
+
+
+# CODE AND APPLICATION
+
+ here we will use python orjava programming for this project
+
+
+
+# PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
+These tables show  examples of the data that should go into each column and row.
+
+
+## TEAM
+
+| Team member | Roles and skills | Contributions |
+|-------------|-------------------------|---------------------------------------------|
+| MANASA AARE                  | SHE will do SOLUTION DESIGN  and IMPLEMENTATION OF PROJECT | Her contribution in the project is 33%
+| SUPRAJA UNNAM                | She will do DATA ANALYSIS and VISUVALIZATION OF DATA | Her contribution in the project is 33% |
+| VENKATA RAMANA PRADEEP BUKKA | He will do TESTING and FINAL REPORTS  | His contribution in the project is also 33%|
+
+ complexity. | Who will delivery this?    | WHAT WERE THE RESULTS?  FILL THIS IN AFTER THE CHECKPOINT HAS PASSED! |
+|     ...          | -- | --                    |  -- |
+
